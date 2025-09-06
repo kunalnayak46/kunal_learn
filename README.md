@@ -1,2 +1,2 @@
 # kunal_learn
-test_repo
+test repo for git command demonstration
